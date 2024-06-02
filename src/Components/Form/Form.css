@@ -1,0 +1,21 @@
+.form {
+  padding: 20px;
+  background-color: rgb(144, 198, 232);
+  border-radius: 10px;
+}
+.input-form {
+  display: flex;
+}
+
+.input:first-child {
+  margin-right: 10px;
+}
+
+.input label {
+  margin-right: 5px;
+}
+
+input {
+  border-radius: 5px;
+  border: none;
+}
